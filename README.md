@@ -1,2 +1,2 @@
 # Codes
-# This contains several scripts that I have been using in my latest projects. This repository is in beta.
+# This bitbucket contains some of the scripts that I have used in my latest projects. This repository is in beta.
